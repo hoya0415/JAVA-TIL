@@ -1,0 +1,144 @@
+{
+  "main": {
+    "id": "4b611d4ec3e5d774",
+    "type": "split",
+    "children": [
+      {
+        "id": "15d480eb7520b2dc",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "TIL/7_배열.md",
+            "mode": "source",
+            "source": false
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "402758a82ca6bb3a",
+    "type": "split",
+    "children": [
+      {
+        "id": "4c4499750e191341",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "a24e90b5c183143f",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "d94bf9b07b5c3036",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "185dde96c1eb4d6b",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 133.5
+  },
+  "right": {
+    "id": "eb852cdcb238dfe3",
+    "type": "split",
+    "children": [
+      {
+        "id": "853197f9e966c797",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "52f2db446c51cfda",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "TIL/7_배열.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "834d0afc7994b26f",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "TIL/7_배열.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "cf000f1b21ccb420",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "e09fceded610e421",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "TIL/7_배열.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "15d480eb7520b2dc",
+  "lastOpenFiles": [
+    "TIL/15_제네릭.md",
+    "TIL/14_오버라이딩.md",
+    "TIL/13_인터페이스.md",
+    "TIL/12_추상클래스.md",
+    "TIL/10_생성자, getter,setter.md",
+    "TIL/9_Class.md",
+    "TIL/6_반복문.md",
+    "TIL/4_Random.md",
+    "TIL/2_형변환.md",
+    "TIL/1_변수, 자료형.md"
+  ]
+}
