@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "TIL/7_배열.md",
+            "file": "README.md",
             "mode": "source",
             "source": false
           }
@@ -77,7 +77,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "TIL/7_배열.md",
+                "file": "README.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -94,7 +94,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "TIL/7_배열.md",
+                "file": "README.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -117,7 +117,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "TIL/7_배열.md"
+                "file": "README.md"
               }
             }
           }
@@ -130,6 +130,7 @@
   },
   "active": "15d480eb7520b2dc",
   "lastOpenFiles": [
+    "TIL/7_배열.md",
     "TIL/15_제네릭.md",
     "TIL/14_오버라이딩.md",
     "TIL/13_인터페이스.md",
@@ -138,7 +139,6 @@
     "TIL/9_Class.md",
     "TIL/6_반복문.md",
     "TIL/4_Random.md",
-    "TIL/2_형변환.md",
-    "TIL/1_변수, 자료형.md"
+    "TIL/2_형변환.md"
   ]
 }

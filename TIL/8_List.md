@@ -12,3 +12,10 @@ ArrayList<Integer> score = new ArrayList<> ();
 ```
 
 +) 공간이 부족할 때마다 2배씩 공간을 늘리며 작업함. 시간 복잡도 O(1)이라 빠르고 좋음.
+
+#### 리스트 정렬
+```
+List<Integer> list = new ArrayList<>();
+list.sort(Comparator.naturalOrder());
+list.sort(Comparator.reverseOrder());
+```
